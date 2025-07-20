@@ -1,5 +1,5 @@
 Hi there! 👋  
-I’m Nguyễn Văn Phúc, a Backend Developer Intern passionate about building scalable, reliable APIs with Java and Spring Boot.
+I’m Nguyễn Văn Phúc, a Java Backend Developer passionate about building scalable, reliable APIs with Java and Spring Boot.
 
 🔧 Tech Stack  
 - Java, Spring Boot, Microservices  
@@ -15,7 +15,7 @@ I’m Nguyễn Văn Phúc, a Backend Developer Intern passionate about building 
 - Long-term: Become a backend architect and lead cross-functional teams.
 
 📫 Let’s connect  
-- Phone: +84 865 564 491  
+- Phone: +84 865 564 794
 - Email: minqtv24@gmail.com  
 - LinkedIn: https://linkedin.com/in/phúc-nguyễn-871599345  
  
