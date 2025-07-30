@@ -17,7 +17,7 @@ I’m Nguyễn Văn Phúc, a Java Backend Developer passionate about building sc
 
 📫 Let’s connect  
 - Phone: +84 865 564 794
-- Email: minqtv24@gmail.com  
+- Email: phucnguyen34.dev@gmail.com 
 - LinkedIn: https://linkedin.com/in/phúc-nguyễn-871599345  
  
 ## 🌐Socials
