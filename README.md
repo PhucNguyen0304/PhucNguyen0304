@@ -1,27 +1,72 @@
-Hi there! 👋  
-I’m Nguyễn Văn Phúc, a Java Backend Developer passionate about building scalable, reliable APIs with Java and Spring Boot.
+# 👋 Hi there, I'm Nguyễn Văn Phúc
 
-🔧 Tech Stack  
-- Java, Spring Boot, Microservices  
-- MySQL, Kafka, WebSocket  
-- Docker, Git, Unit/Integration Testing
-- Swagger, Jacoco, Sonarqube
+🎯 A passionate **Java Backend Developer** who loves building scalable, reliable APIs using **Java** and **Spring Boot**.  
+I thrive on solving complex problems, optimizing performance, and designing resilient microservices.
 
-🚀 Featured Projects  
-- **Event Booking Central**: Built with Java Spring Boot microservices (7 services) and MySQL, reducing booking confirmation time by 70%.  
-- **Moho Furniture**: Built e-commerce backend with Node.js, Express, and MongoDB.
+---
 
-🎯 Goals  
-- Short-term: Deepen expertise in Java backend development—optimizing performance and building resilient microservices.  
-- Long-term: Become a backend architect and lead cross-functional teams.
+## 🔧 Tech Stack
 
-📫 Let’s connect  
-- Phone: +84 865 564 794
-- Email: phucnguyen34.dev@gmail.com 
-- LinkedIn: https://linkedin.com/in/phúc-nguyễn-871599345  
- 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-871599345/) 
+- **Languages & Frameworks**: Java, Spring Boot, Node.js, Express  
+- **Architecture**: Microservices, Event-Driven, WebSocket  
+- **Databases**: MySQL, MongoDB  
+- **DevOps & Tools**: Docker, Git, Swagger, Jacoco, Sonarqube  
+- **Testing**: JUnit, Mockito (Unit & Integration Testing)
 
-# 💻Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### 🎫 Event Booking Central  
+> Built with **Java Spring Boot microservices (7 services)** and **MySQL**  
+> ⏱️ Reduced booking confirmation time by **70%** through asynchronous Kafka workflows and optimized queries
+
+### 🛋️ Moho Furniture  
+> Developed e-commerce backend using **Node.js**, **Express**, and **MongoDB**  
+> Implemented secure authentication and RESTful APIs for product, cart, and order management
+
+---
+
+## 🎯 Career Goals
+
+- **Short-term**:  
+  Deepen expertise in Java backend development — focusing on performance tuning and building fault-tolerant microservices.
+
+- **Long-term**:  
+  Become a **Backend Architect**, leading cross-functional teams and designing enterprise-grade systems.
+
+---
+
+## 📫 Let’s Connect
+
+- 📞 Phone: +84 865 564 794  
+- 📧 Email: [phucnguyen34.dev@gmail.com](mailto:phucnguyen34.dev@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/phúc-nguyễn-871599345](https://linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-871599345)
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-871599345)
+
+---
+
+## 💻 Tech Stack Badges
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-00bfff?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Jacoco](https://img.shields.io/badge/jacoco-yellow?style=for-the-badge)
+![Sonarqube](https://img.shields.io/badge/SonarQube-%2300bfff.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge)
+
+---
+
+📌 *Thanks for visiting my profile! Let’s build something amazing together.*
