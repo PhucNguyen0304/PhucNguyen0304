@@ -35,8 +35,8 @@ I thrive on solving complex problems, optimizing performance, and designing resi
 ## 🚀 Featured Projects
 
 ### 🎫 Event Booking Central  
-> Built with **Java Spring Boot microservices (7 services)** and **MySQL**  
-> ⏱️ Reduced booking confirmation time by **70%** through asynchronous Kafka workflows and optimized queries
+> A microservices–based platform for browsing, booking, and managing events
+> Built with **Java Spring Boot Microservices (7 services)** and **MySQL**  \
 
 ### 🛋️ Moho Furniture  
 > Developed e-commerce backend using **Node.js**, **Express**, and **MongoDB**  
