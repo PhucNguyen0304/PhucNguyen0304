@@ -36,7 +36,7 @@ I thrive on solving complex problems, optimizing performance, and designing resi
 
 ### 🎫 Event Booking Central  
 > A microservices–based platform for browsing, booking, and managing events
-> Built with **Java Spring Boot Microservices (7 services)** and **MySQL**  \
+> Built with **Java Spring Boot Microservices (7 services)** and **MySQL**  
 
 ### 🛋️ Moho Furniture  
 > Developed e-commerce backend using **Node.js**, **Express**, and **MongoDB**  
